@@ -1,0 +1,63 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+img{
+
+	width: 20%
+}
+
+
+video{
+
+	width: 70%
+}
+
+
+
+
+body {
+	background:url(../imagenes/fondo.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% ; 
+}
+
+header, .main, footer {
+	
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+header nav{
+	background: black;
+	overflow: hidden;
+}
+
+header nav ul{
+	list-style: none;
+	
+}
+
+header nav ul li{
+	float: left;
+
+}
+
+header nav ul li a{
+	padding: 10px 20px;
+	display: block;
+	color: #F448B3;
+	text-decoration: none;
+}
+
+h1{
+	font-size: 3em;
+}
+
+
+p{
+	color: #fff;
+}

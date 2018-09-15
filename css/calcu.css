@@ -1,0 +1,124 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+img{
+
+	width: 20%
+}
+
+header, .main, footer {
+	
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+
+body {
+	background:url(../imagenes/fondo2.jpg);
+	background-attachment:fixed ;
+	background-repeat: no-repeat;
+	background-size: 100% ; 
+}
+
+header, .ds, footer {
+	
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+
+}
+
+header nav{
+	background: black;
+	overflow: hidden;
+}
+
+header nav ul{
+	list-style: none;
+	
+}
+
+header nav ul li{
+	float: left;
+
+}
+
+header nav ul li a{
+	padding: 10px 20px;
+	display: block;
+	color: #F448B3;
+	text-decoration: none;
+}
+
+h1{
+	font-family: EASPORTS15;
+	font-size: 3em;
+	text-align: center;
+	color: #F2F2F2
+
+}
+
+
+p{
+	font-family: f;
+	color: #fff;
+	align-items: center;
+	font-size: 100%;
+}
+
+@font-face {
+	font-family: EASPORTS15;
+	src:url(../imagenes/EASPORTS15.ttf);
+
+	font-family: f
+	src:url(../imagenes/f.ttf);
+}
+
+
+.contenedor{
+	position: relative;
+	top: 125px;
+}
+.text{
+	font-size: 30px;
+	font-family: Arial,Helvetica;
+	color: white;
+	border: 0px;
+	background: #808080;
+	width: 325.8px;
+	height: 80px;
+}
+.columna1{
+	font-size: 30px;
+	font-family: Arial,Helvetica;
+	color: #000;
+	border: 0px;
+	background: #C8C7CD;
+	width: 80px;
+	height: 80px;
+}
+.columna2{
+	font-size: 30px;
+	font-family: Arial,Helvetica;
+	color: #fff;
+	border: 0px;
+	background: #015B8D;
+	width: 80px;
+	height: 80px;
+}
+
+h1{
+
+	font-family: cursive;
+	color: white;
+	font-size: 6em;
+}
+
+h2{
+	font-family: comic sans;
+	color: white; 
+	font-size: 1em;
+}

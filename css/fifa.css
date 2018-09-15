@@ -1,0 +1,149 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+img{
+
+	width: 20%
+
+}
+
+header, .ds footer {
+	
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+	
+.main
+
+
+
+
+
+}
+
+.main{
+	width: 90%;
+	max-width: 1000px;
+	margin: 20px auto;
+
+}
+.slides{
+	width: 100%;
+}
+.slides img{
+	width: 56%;
+	
+}
+
+.slidesjs-pagination {
+
+	background: #424242;
+	list-style: none;
+	overflow: hidden;
+}
+
+.slidesjs-pagination li {
+
+	float: left;
+}
+
+.slidesjs-pagination li a{
+
+	display:block; 
+	padding: 10px 20px;
+	color: #fff;
+	text-decoration: none;
+			
+
+
+}
+.slidesjs-pagination li a:hover {
+	background: #000;
+
+}
+
+
+.slides .active {
+	background: #000;
+}
+
+.slidesjs-navigation{
+	background: #000;
+	color: #fff;
+	text-decoration:none;
+	display: inline-block;
+	padding: 10px 20px;
+	float: right;
+
+
+}
+
+
+
+
+body {
+	background:url(../imagenes/fondo2.jpg);
+	background-attachment:fixed ;
+	background-repeat: no-repeat;
+	background-size: 100% ; 
+}
+
+header, .ds, footer {
+	
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+
+}
+
+header nav{
+	background: black;
+	overflow: hidden;
+}
+
+header nav ul{
+	list-style: none;
+	
+}
+
+header nav ul li{
+	float: left;
+
+}
+
+header nav ul li a{
+	padding: 10px 20px;
+	display: block;
+	color: #F448B3;
+	text-decoration: none;
+}
+
+h1{
+	font-family: cursive;
+	font-size: 7em;
+	text-align: center;
+	color: #F2F2F2
+
+}
+
+
+p{
+	font-family: cursive;
+	color: #fff;
+	align-items: center;
+	font-size: 100%;
+}
+
+@font-face {
+	font-family: cursive;
+
+
+	font-family: cursive;
+	
+}
+
+
+
